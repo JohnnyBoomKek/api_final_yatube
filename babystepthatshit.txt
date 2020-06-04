@@ -1,0 +1,13 @@
+1. Make it so I pass python -m pytest test_post.py
+    a)Create Routing and ViewSets for Post
+___done___ 
+
+2. Make it so i pass python -m pytest test_comments.py
+__doone
+
+3. Make it so i pass test_group.py
+    a) routing, serializer, ViewSet for the Group model
+    b) done 4/5 (GET request with params still tbd)
+
+4. Make it so i pass test_follow.py
+    a) Routing, serializer, Viewset for the Follow Model 
